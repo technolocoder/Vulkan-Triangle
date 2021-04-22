@@ -1,0 +1,3 @@
+meson compile -C build
+./compile-shaders.sh
+./build/Test-Triangle
